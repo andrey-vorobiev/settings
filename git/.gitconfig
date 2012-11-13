@@ -1,0 +1,6 @@
+[user]
+	name = Andrey Vorobiev
+	email = andrey.vorobiev@mind.com
+[core]
+	editor = nano
+	excludesfile = /Users/kisa/.gitignore

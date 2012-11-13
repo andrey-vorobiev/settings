@@ -1,0 +1,7 @@
+*.[oa]
+*~
+.svn
+*.iml
+.idea
+.eclipse
+target/
